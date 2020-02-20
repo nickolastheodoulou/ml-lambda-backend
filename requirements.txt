@@ -1,0 +1,7 @@
+zappa
+numpy
+scipy
+scikit-learn==0.20.1
+flask
+boto3
+fastai==1.0.60
